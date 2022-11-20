@@ -12,4 +12,5 @@ Los resultados obtenidos se muestran en el documento de la [actividad 1.4](https
 
 ![Servidor Google](https://github.com/LuisAlfPerez/Multiprocesadores/blob/main/Actividad%201.4/Servidor.jpg)
 
-Se puede concluir que la respuesta en el servidor fue aleatoria, tal como era esperado. Sin embargo, se notó un poco más de orden, ya que, normalmente, mantuvieron el orden. Se observa de forma más clara en la gráfica, donde existen ciertas líneas que casi se mantienen horizontales entre diferentes corridas. 
+Se puede concluir que la respuesta en el servidor fue mucho mejor. Esto se debe a las características del servidor, principalmente en cuanto a procesador. Y, a diferencia de la computadora personal, donde se obtiene un mejor rendimiento a partir de los 300 threads, se consigue un óptimo rendimiento entre 50 y 85 threads. Aquí se demuestra lo platicado en clase, debido a que cada equipo puede tener un rendimiento muy diferente por sus características. 
+
