@@ -12,6 +12,8 @@ En este repositorio se encuentra el proyecto final de la materia. Se encuentra d
 
 Para realizar las pruebas con máquina virtual, se utilizó el servicio que provee Google. Después de realizar una cuenta e ingresar un método de pago, se otorga un crédito gratuito para probar el sistema. 
 
+![Servidor](https://github.com/LuisAlfPerez/Multiprocesadores/blob/main/servidor2.jpg)
+
 Se montó una máquina virtual con las siguientes características:
 
 ![Servidor](https://github.com/LuisAlfPerez/Multiprocesadores/blob/main/servidor.jpg)
