@@ -1,7 +1,7 @@
 # Actividad 1.5
 ## Comparación de rendimiento entre el código ejecutado en la computadora personal y el servidor de google:
 
-En esta actividad se realizó una muestra sobre cómo funcionaba OpenMP y se validó la respuesta del programa ante diferente número de Threads. Los resultados obtenidos se muestran en el documento de la [actividad 1.5](https://github.com/LuisAlfPerez/Multiprocesadores/blob/main/Actividad%201.5/Actividad%201-5.pdf). Como comparación final, se utilizó una máquina virtual para analizar su comportamiento y concluir cómo cambió. En este caso, por cuestiones prácticas, solo se incluye la versión de 18 threads. 
+Se desarrollaron tres programas distintos, cada uno con un objetivo diferente: evaluar la velocidad del caché, de la memoria RAM y del disco duro. El caché fue probado por un programa que calcula el área bajo la curva, mientras la RAM y el disco duro con una ecuación diferencial. Para el caso del disco duro se escriben los resultados en un archivo de texto, lo que hace que el tiempo de guardado sea más lento.
 
 ## Rendimiento en computadora personal
 
