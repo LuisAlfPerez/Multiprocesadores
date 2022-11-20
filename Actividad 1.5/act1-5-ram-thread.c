@@ -56,7 +56,7 @@ void iteracion(int N){
   for(i=0;i<N;i++){
       t=a+(h*i);
       // ab=t*t;
-      w=w+h*(w-pow(t,2)+1.0); //w=w+h*(w-ab+1); 
+      w=w+h*(w-t*t+1.0); //w=w+h*(w-ab+1); 
       result[omp_get_thread_num()][i] = w;
       // fprintf(x, "%f\t %f \t numero de thread:%d\n", t+h, w,omp_get_thread_num());
   } 
