@@ -1,13 +1,13 @@
-#Actividad 1.3
-##Comparación de rendimiento entre el código ejecutado en la computadora personal y el servidor de google:
+# Actividad 1.3
+## Comparación de rendimiento entre el código ejecutado en la computadora personal y el servidor de google:
 
 En esta actividad se realizó una muestra sobre cómo funcionaba OpenMP y se validó la respuesta del programa ante diferente número de Threads. Los resultados obtenidos se muestran en el documento de la [actividad 1.3](https://github.com/LuisAlfPerez/Multiprocesadores/blob/main/Actividad%201.3/Actividad%201-3.pdf). Como comparación final, se utilizó una máquina virtual para analizar su comportamiento y concluir cómo cambió. En este caso, por cuestiones prácticas, solo se incluye la versión de 18 threads. 
 
-##Rendimiento en computadora personal
+## Rendimiento en computadora personal
 
 ![Computadora personal](https://github.com/LuisAlfPerez/Multiprocesadores/blob/main/Actividad%201.3/ComputadoraPersonal.png)
 
-##Rendimiento en servidor
+## Rendimiento en servidor
 
 ![Servidor Google](https://github.com/LuisAlfPerez/Multiprocesadores/blob/main/Actividad%201.3/Servidor.jpg)
 
