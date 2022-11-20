@@ -29,4 +29,4 @@ El resultado de ambos se puede observar en las siguientes imágenes:
 
 ![Ambos](https://github.com/LuisAlfPerez/Multiprocesadores/blob/main/Actividad%202.1/punk.bmp_ambos.bmp)
 
-Se puede concluir que la respuesta en el servidor fue nuevamente mejor, debido a sus buenas características tanto de procesador, memoria ram y almacenamiento. Sin embargo, no estuvo tan distancia del rendimiento en la computadora personal. 
+Se puede concluir que la respuesta en el servidor fue nuevamente mejor, debido a sus buenas características tanto de procesador, memoria ram y almacenamiento. Sin embargo, no estuvo tan distanciada del rendimiento en la computadora personal. 
