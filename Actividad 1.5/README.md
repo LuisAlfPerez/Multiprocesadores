@@ -20,7 +20,17 @@ Se demoró 10.17 segundos, alrededor de diez segundos más. Con esto pudimos com
 
 
 ## Rendimiento en servidor
+Para que fuera equivalente la comparación del desempeño entre los programas, se utilizó el mismo número de pasos: 12,000,000. En el caso del área bajo la curva, al trabajar los 6 hilos al mismo tiempo, se toman los 12 millones. 
 
-![Servidor Google](https://github.com/LuisAlfPerez/Multiprocesadores/blob/main/Actividad%201.3/Servidor.jpg)
+![Cache](https://github.com/LuisAlfPerez/Multiprocesadores/blob/main/Actividad%201.5/cache-servidor.jpg)
+Con este programa, se obtuvo el resultado en 0.084 segundos
+Para las otras dos pruebas, se hicieron 2,000,000 de pasos, pero con 6 hilos, lo que las hace equivalentes. En el caso de la RAM, se calcularon los valores y se guardaron en un arreglo, lo que aseguró que no se trasladara al disco duro. 
+
+![Ram](https://github.com/LuisAlfPerez/Multiprocesadores/blob/main/Actividad%201.5/ram-servidor.jpg)
+Con esta ejecución se tardó 0.361 segundos, que fue 0.277 segundos más lento.
+Por último, se ejecutó el que guarda todo en un archivo de texto, y este fue significativamente más lento que los dos previos.
+ 
+![SSD](https://github.com/LuisAlfPerez/Multiprocesadores/blob/main/Actividad%201.5/ssd-servidor.jpg)
+Se demoró 10.17 segundos, alrededor de diez segundos más. Con esto pudimos comprobar que es mucho más lento cuando se guarda en un archivo. 
 
 Se puede concluir que la respuesta en el servidor fue aleatoria, tal como era esperado. Sin embargo, se notó un poco más de orden, ya que, normalmente, mantuvieron el orden. Se observa de forma más clara en la gráfica, donde existen ciertas líneas que casi se mantienen horizontales entre diferentes corridas. 
